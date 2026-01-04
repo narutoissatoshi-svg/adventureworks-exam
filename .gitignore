@@ -1,0 +1,5 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Database files (don't upload 45MB .bak)
+*.bak
