@@ -1,3 +1,0 @@
--- AdventureWorks Exam Queries
--- Author: Dariel Riera
--- Date: 2026-01-03
